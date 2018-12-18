@@ -1,0 +1,22 @@
+https://xz.aliyun.com/t/3069#toc-2
+基于QL的安全研究—在Spring Data REST中找到一个远程命令执行(CVE-2017-8046)
+
+https://xz.aliyun.com/t/3138
+利用 Java 反序列化漏洞在受限环境下获取反向 Shell
+
+https://xz.aliyun.com/t/3148
+CVE-2018-11776：如何使用Semmle QL在Apache Struts中找到5个RCE
+
+https://xz.aliyun.com/t/2799
+利用动态二进制加密实现新型一句话木马之客户端篇
+
+https://www.freebuf.com/articles/web/172753.html
+利用“进程注入”实现无文件复活 WebShell
+
+https://www.freebuf.com/vuls/90802.html
+Java反序列化漏洞之weblogic本地利用实现篇
+
+https://www.freebuf.com/sectool/88908.html
+Java反序列化漏洞执行命令回显实现及Exploit下载
+
+https://www.freebuf.com/author/rebeyond?comment=1&page=2
